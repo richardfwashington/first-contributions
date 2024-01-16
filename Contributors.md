@@ -1334,3 +1334,4 @@ main
 - [RungrojWK](https://github.com/RungrojWK)
 - [ViniJacob]
 - [samsonmobisa](https://github.com/samsonmobisa)
+- [richardwashington](https://github.com/richardfwashington)
